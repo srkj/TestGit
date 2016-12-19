@@ -25,7 +25,7 @@
     NSString *string1 = [string stringWithDESToStr];
     NSLog(@"===  %@",string1);
     
-    
+    NSLog(@"===  %@",string1);
 
 }
 
